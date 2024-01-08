@@ -1,6 +1,6 @@
 # ZkStars_minter
 
-Минтер на starkstars.io
+Минтер на ZkStars.io
 
 Как запускать:
 
